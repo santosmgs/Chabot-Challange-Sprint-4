@@ -6,12 +6,20 @@ Para que o código execute a API com o modelo de reconhecimento de imagens, é n
 
 Versão Python:
 
-Utilize uma versão do Python que suporte as bibliotecas (a versão recomendada é a 3.8). Bibliotecas Necessárias:
+Utilize uma versão do Python que suporte as bibliotecas (a versão recomendada é a 3.8). 
 
-Importe as seguintes bibliotecas: tensorflow eras opencv flask Observação:
+Bibliotecas Necessárias:
 
-O código foi desenvolvido usando o Anaconda e a versão específica do Python 3.8.18. Bibliotecas Utilizadas:
+Importe as seguintes bibliotecas: tensorflow eras opencv flask 
 
-Certifique-se de ter as seguintes bibliotecas instaladas: tensorflow eras opencv flask Execução do Código:
+Observação:
 
-Após seguir os passos acima, o código deve rodar normalmente. Ao abrir o Visual Studio Code (vs Code), certifique-se de estar utilizando a versão correta do Python com as bibliotecas instaladas (não pode ser Python 3.11).
+O código foi desenvolvido usando o Anaconda e a versão específica do Python 3.8.18. Bibliotecas 
+
+Utilizadas:
+
+Certifique-se de ter as seguintes bibliotecas instaladas: tensorflow eras opencv flask 
+
+Execução do Código:
+
+Após seguir os passos acima, o código deve roda normalmente. Ao abrir o Visual Studio Code (vs Code), certifique-se de estar utilizando a versão correta do Python com as bibliotecas instaladas (não pode ser Python 3.11).
